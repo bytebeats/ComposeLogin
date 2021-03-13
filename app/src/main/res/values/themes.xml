@@ -24,7 +24,7 @@
         <!-- Customize your theme here. -->
     </style>
 
-    <style name="Theme.AndroidDevChallenge.NoActionBar">
+    <style name="Theme.AndroidDevChallenge.NoActionBar" parent="Theme.AndroidDevChallenge">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
     </style>
