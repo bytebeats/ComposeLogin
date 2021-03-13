@@ -15,14 +15,8 @@
  */
 package com.example.androiddevchallenge.ui.theme
 
-import androidx.compose.foundation.shape.RoundedCornerShape
-import androidx.compose.material.Shapes
 import androidx.compose.ui.unit.dp
 
-val shapeSmall = RoundedCornerShape(4.dp)
-val shapeMedium = RoundedCornerShape(24.dp)
-val shapes = Shapes(
-    small = shapeSmall,
-    medium = shapeMedium,
-    large = RoundedCornerShape(0.dp)
-)
+val cardElevation = 1.dp
+val snackbarElevation = 2.dp
+val btnNavElevation = 16.dp
