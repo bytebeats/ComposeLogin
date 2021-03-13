@@ -9,5 +9,9 @@
       or implied. See the License for the specific language governing permissions and limitations under
       the License.
       -->
-    <string name="app_name">AndroidDevChallenge</string>
+    <string name="app_name">Bloom</string>
+    <string name="bloom">Bloom</string>
+    <string name="bloom_brief">Beautiful home garden solutions</string>
+    <string name="create_account">Create account</string>
+    <string name="login">Log in</string>
 </resources>
