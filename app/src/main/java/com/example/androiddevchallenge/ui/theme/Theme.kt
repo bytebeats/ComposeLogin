@@ -69,5 +69,5 @@ fun logo(darkTheme: Boolean): Int =
 fun welcomeBg(darkTheme: Boolean): Int =
     if (darkTheme) R.drawable.ic_dark_welcome_bg else R.drawable.ic_light_welcome_bg
 
-fun welcomeIllios(darkTheme: Boolean): Int =
+fun welcomeIllos(darkTheme: Boolean): Int =
     if (darkTheme) R.drawable.ic_dark_welcome_illos else R.drawable.ic_light_welcome_illos
